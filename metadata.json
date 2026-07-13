@@ -1,0 +1,6 @@
+{
+  "name": "Pro Physique Fitness Club",
+  "description": "The premium fitness club and gym in Sector 15-A, Buffer Zone, Karachi. Featuring heavy bodybuilding machines, clean spaces, and professional coaches like Coach Aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
