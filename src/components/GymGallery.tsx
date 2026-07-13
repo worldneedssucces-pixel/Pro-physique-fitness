@@ -12,28 +12,28 @@ interface GalleryImage {
 const GALLERY_IMAGES: GalleryImage[] = [
   {
     id: "img1",
-    src: "/images/image-1.png",
+    src: "/images/image 1.PNG",
     category: "Strength Zone",
     title: "Pro Physique Zone",
     description: "Premium heavy-duty machines and weight training facilities.",
   },
   {
     id: "img2",
-    src: "/images/image-2.png",
+    src: "/images/image 2.PNG",
     category: "Coaching Arena",
     title: "Dedicated Training Area",
     description: "Excellent layout with personalized focus on client results.",
   },
   {
     id: "img4",
-    src: "/images/image-4.png",
+    src: "/images/image 4.PNG",
     category: "Aerobic Cardio",
     title: "Cardio Section",
     description: "Stamina-building treadmills and elite fitness trackers.",
   },
   {
     id: "img3",
-    src: "/images/image-3.png",
+    src: "/images/image 3.PNG",
     category: "Bodybuilding Equipment",
     title: "Advanced Muscle Sculpting",
     description: "Highly requested machine configurations for premium variations.",
