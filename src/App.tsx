@@ -45,7 +45,7 @@ export default function App() {
           {/* Logo */}
           <div className="flex items-center gap-3 cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
             <div className="w-11 h-11 rounded-xl flex items-center justify-center overflow-hidden bg-neutral-900 border border-neutral-800">
-              <img src="/images/logo.PNG" alt="Pro Physique Logo" className="w-full h-full object-contain p-1" />
+              <img src="/images/logo.png" alt="Pro Physique Logo" className="w-full h-full object-contain p-1" />
             </div>
             <div className="text-left">
               <span className="block text-lg font-display font-black tracking-tight leading-none text-white">
@@ -172,7 +172,7 @@ export default function App() {
               <div className="absolute inset-0 bg-gradient-to-r from-amber-500 to-yellow-600 rounded-2xl blur opacity-15" />
               <div className="relative rounded-2xl overflow-hidden border border-neutral-800/80 aspect-video bg-neutral-950 shadow-2xl">
                 <img
-                  src="/images/landing page.PNG"
+                  src="/images/landing-page.png"
                   alt="Pro Physique Gym Interior Hero"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-contain filter brightness-[0.95]"
@@ -231,7 +231,7 @@ export default function App() {
             <div className="md:col-span-2 space-y-4">
               <div className="flex items-center gap-2.5">
                 <div className="w-8 h-8 rounded-lg flex items-center justify-center overflow-hidden bg-neutral-900 border border-neutral-800">
-                  <img src="/images/logo.PNG" alt="Pro Physique Logo" className="w-full h-full object-contain p-0.5" />
+                  <img src="/images/logo.png" alt="Pro Physique Logo" className="w-full h-full object-contain p-0.5" />
                 </div>
                 <span className="text-white font-display font-black uppercase tracking-tight">
                   PRO PHYSIQUE
